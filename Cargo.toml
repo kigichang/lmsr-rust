@@ -3,6 +3,10 @@ name = "lmsr"
 version = "0.1.0"
 authors = ["kigi <kigi.chang@gmail.com>"]
 edition = "2018"
+license = "MIT"
+description = """\
+    Implement Logarithmic Market Scoring Rules by Robin Hanson
+"""
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
